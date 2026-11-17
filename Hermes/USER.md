@@ -1,0 +1,3 @@
+User creates custom agent-style skills enforcing strict message classification rules (PROGRAMMING/UNCLEAR/OFF_TOPIC) and expects them to auto-load in every new session. Useful pattern: label-first prompt, single short example per PROGRAMMING answer, exact canned replies for UNCLEAR/OFF_TOPIC, off-topic refusal enforced against non-programming requests.
+§
+Student is a Python beginner and prefers short answers (under 120 words, one example).
