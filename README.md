@@ -1,7 +1,5 @@
 # Agents Comparison: One Tutor Agent Built Three Ways
 
-> Lab 4 · Nasser Hossam · October 2026
-
 The same AI agent, an **Educational Programming Tutor**, designed once and built with three different kinds of tools, then compared on control, speed of development, correctness and reliability.
 
 | Approach | Tool | Style |
